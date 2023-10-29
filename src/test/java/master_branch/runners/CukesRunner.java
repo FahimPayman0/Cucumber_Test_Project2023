@@ -11,7 +11,7 @@ import org.junit.runner.RunWith;
         features = "src/test/resources/features",
         glue = "master_branch/step_definitions",
         dryRun = false,
-        tags = "@greenKart"
+        tags = "@fahim"
         )
 public class CukesRunner {
 }
